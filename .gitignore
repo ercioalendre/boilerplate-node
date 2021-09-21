@@ -1,0 +1,13 @@
+.idea/
+.vscode/
+node_modules/
+build/
+dist/
+
+ormlogs.log
+yarn-error.log
+
+logs/*
+!logs/.gitkeep
+
+src/__tests__/coverage/*
